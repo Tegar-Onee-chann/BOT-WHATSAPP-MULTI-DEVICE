@@ -47,27 +47,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/_pahilz26' //Link Instagrammu
+global.sig = 'https://instagram.com/zurrzxynnn' //Link Instagrammu
 global.sgh = 'https://github.com/amelcanss' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/IqFfoXcdh7UFyPoQTpKoQp'
+global.sgc = 'https://chat.whatsapp.com/DrpWVw0ddQnGrNo3Om39Bx'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '087833306677' //Nomor Danamu
-global.ppulsa = '087833306677' //Xl
-global.psaweria = 'https://saweria.com/amelcanss' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '081211037493' //Nomor Danamu
+global.ppulsa = '081211037493' //Xl
+global.psaweria = 'https://saweria.com/ZurrZxynn' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287852161042' //Nomor Bot
-global.nomorown = '087833306677' //Nomor Owner
-global.namebot = 'FAHIL BOTz' //Nama Bot
-global.nameown = 'fahil' // Nama Owner
+global.nomorbot = '62812110374936' //Nomor Bot
+global.nomorown = '6281211037493' //Nomor Owner
+global.namebot = 'ズール BOTz' //Nama Bot
+global.nameown = 'ZurrDev' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287833306677', '❦ fahil 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6281211037493', '❦ ZurrDev 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,22 +99,22 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 FAHIL BOTZ 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘FAHIL BOTZ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'FAHIL BOTZ'
+global.wm = '                「 ズール BOTZ 汉  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ズール BOTZ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = 'ズール BOTZ'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
-global.titlebot = 'By Fahil'
+global.titlebot = 'By ズール'
 global.author = global.wm
-global.logo = 'https://ibb.co/17RY7x9'
+global.logo = 'https://ibb.co/zJHXFHc'
 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/8154df0022fa4eacc13ce.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/8154df0022fa4eacc13ce.jpg'
-global.thumbbc = 'https://telegra.ph/file/8154df0022fa4eacc13ce.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/8154df0022fa4eacc13ce.jpg'
+global.thumb = 'https://telegra.ph/file/998db07ab728846fa76fb.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/998db07ab728846fa76fb.jpg'
+global.thumbbc = 'https://telegra.ph/file/998db07ab728846fa76fb.jpg' //For broadcast
+global.giflogo = 'https://telegra.ph/file/998db07ab728846fa76fb.jpg'
 global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1598c29a621.jpg',
 'https://i.pinimg.com/originals/85/4d/bb/854dbbd30304cd69f305352f0183fad0.jpg',
 'https://i.pinimg.com/originals/32/2c/a4/322ca456fa2cdec4b717895a65adfa8d.jpg',
@@ -327,10 +327,10 @@ global.flaaa = [
 
 /*============== TEXT ==============*/
 global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
-global.eror = '```404 error```'
+global.eror = '```404 error Bgst```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 857-3617-8354'
+global.phn = '+62 812-1103-7493'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -340,7 +340,7 @@ global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 global.djson = 'application/json'
 
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/998db07ab728846fa76fb.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -372,8 +372,8 @@ global.hsquere = ['⛶','❏','⫹⫺']
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
 global.stickauth = `☂︎\nF\na\nh\ni\nl\n\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
-global.packname = 'By Fahil'
-global.packname2 = 'Ig : _pahilz26'
+global.packname = 'By ズール'
+global.packname2 = 'Ig : zurrzxynnn'
 
 global.multiplier = 38 // The higher, The harder levelup
 
